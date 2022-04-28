@@ -26,7 +26,7 @@
     "bitcoinjs-lib": "^5.1.10",
     "coinselect": "^3.1.12",
     "core-js": "^3.6.5",
-    "dexie": "^3.0.1",
+    "dexie": "^3.2.2",
     "electrum-client": "https://github.com/BlueWallet/rn-electrum-client",
     "moment": "^2.29.1",
     "node-sass": "^4.14.1",
