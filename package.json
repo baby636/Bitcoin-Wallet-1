@@ -28,7 +28,7 @@
     "core-js": "^3.6.5",
     "dexie": "^3.0.1",
     "electrum-client": "https://github.com/BlueWallet/rn-electrum-client",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "node-sass": "^4.14.1",
     "qrcode.vue": "^1.7.0",
     "sass-loader": "^10.0.2",
@@ -57,7 +57,7 @@
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
     "typescript": "~3.9.3",
-    "vue-cli-plugin-electron-builder": "~2.0.0-rc.2",
+    "vue-cli-plugin-electron-builder": "~2.0.0",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
