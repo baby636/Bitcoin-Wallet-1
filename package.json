@@ -29,7 +29,7 @@
     "dexie": "^3.0.1",
     "electrum-client": "https://github.com/BlueWallet/rn-electrum-client",
     "moment": "^2.29.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.2",
     "qrcode.vue": "^1.7.0",
     "sass-loader": "^10.0.2",
     "vue": "^2.6.11",
