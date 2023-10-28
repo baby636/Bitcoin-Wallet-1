@@ -19,7 +19,7 @@
     "@spectrum-web-components/dropdown": "^0.7.1",
     "@spectrum-web-components/menu": "^0.3.1",
     "@treverix/custom-electron-titlebar": "^4.1.6",
-    "axios": "^0.19.2",
+    "axios": "^1.6.0",
     "bignumber.js": "^9.0.0",
     "bip32": "^2.0.5",
     "bip39": "^3.0.2",
@@ -57,7 +57,7 @@
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
     "typescript": "~3.9.3",
-    "vue-cli-plugin-electron-builder": "~2.0.0-rc.2",
+    "vue-cli-plugin-electron-builder": "~2.0.0",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
